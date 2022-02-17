@@ -1,0 +1,293 @@
+bodu{
+    font-family: 'Roboto', sans-serif;
+}
+.nav{
+    min-height: 80px;
+}
+.container {
+    max-width: 1330px !important;
+    padding: 0 15px !important;
+    margin: 0 auto !important;
+}
+.logo{
+  font-size: 38px;
+}
+.container {
+    padding: 0 30px;
+}
+.input-logo{
+    position: relative;
+}
+.input-logo::before{
+    position:absolute;
+    content: '';
+    top: 27%;
+    right: 10%;
+    width: 16px;
+    height: 16px;
+    color: black;
+    background: url(../images/Group\ 14856.png) no-repeat;
+}
+.input_1 {
+    background: transparent !important;
+    width: 236px !important;
+    height: 27px;
+    border: 1px solid #717171 !important;
+    border-radius: 6px !important;
+}
+
+a {
+    color:#F7F8FA !important;
+}
+.bell {
+    width: 24px;
+    height: 24px;
+    font-size: 20px;
+}
+.plus{
+    width: 24px;
+    height: 24px;
+    font-size: 20px; 
+}
+.link{
+    margin: 0 10px;
+    text-decoration: none;
+    color: #F7F8FA;;
+}
+.deg-1{
+    position: relative;
+}
+.deg-1::before {
+    position:absolute;
+    content: '';
+    top: 36%;
+    left: 90%;
+    width: 10px;
+    height: 5px;
+    background: url(../images/Polygon\ 13.png) no-repeat;
+}
+
+.deg-2{
+    position: relative;
+}
+.deg-2::before {
+    position:absolute;
+    content: '';
+    top: 36%;
+    left: 100%;
+    width: 10px;
+    height: 5px;
+    background: url(../images/Polygon\ 13.png) no-repeat;
+}
+.left-block {
+    background: #ffff;
+}
+.left-btn {
+    text-align: end;
+}
+.btn-1{
+    width: 59px;
+    height: 26px;
+    background: #2DA951;
+    border-radius: 5px;
+    border: none;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 14px;
+    color: #FFFFFF;
+}
+.recent-input {
+    background: #F7F8FC !important;
+    border: 1px solid #E0E0E0 !important;
+}
+.sub-title {
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 14px;
+}
+.ring-block {
+    background: #E5E5E5;
+    justify-content: space-between;
+    padding: 0 65px !important;
+}
+
+.user-ava h3 {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+}
+.card-title {
+    position: relative;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 15px;
+    color: #000000;
+}
+.card-title::after {
+    position: absolute;
+    content: '';
+    top: 0%;
+    right: 102%;
+    width: 35px;
+    height: 35px;
+    background: url(../images/user-1.png) no-repeat;
+}
+.user-2 {
+    position: relative;
+}
+.user-2::after {
+    position: absolute;
+    content: '';
+    top: 0%;
+    right: 102%;
+    width: 35px;
+    height: 35px;
+    background: url(../images/user-2.png) no-repeat;
+}
+.user-3 {
+    position: relative;
+}
+.user-3::after {
+    position: absolute;
+    content: '';
+    top: 0%;
+    right: 102%;
+    width: 35px;
+    height: 35px;
+    background: url(../images/user-3.png) no-repeat;
+}
+.user-4 {
+    position: relative;
+}
+.user-4::after {
+    position: absolute;
+    content: '';
+    top: 0%;
+    right: 102%;
+    width: 35px;
+    height: 35px;
+    background: url(../images/user-4.png) no-repeat;
+}
+.user-5 {
+    position: relative;
+}
+.user-5::after {
+    position: absolute;
+    content: '';
+    top: 0%;
+    right: 102%;
+    width: 35px;
+    height: 35px;
+    background: url(../images/user-5.png) no-repeat;
+}
+.user-name{
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 15px;
+    color: #000000;
+}
+.user-text {
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 14px;
+    color: #000000;
+}
+.red {
+    color: red;
+}
+.stars {
+    color: #848484;;
+}
+.green {
+    color: green;
+}
+.purpure {
+    color: purple;
+}
+.user-link{
+    color: black !important;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 14px;
+    margin: 30px 0px;
+    text-decoration: none;
+}
+.ul {
+    padding: 0 !important;
+}
+.user-img {
+    list-style: none;
+    background: url(../images/unsplash_2tN55sa2Ndg.png) no-repeat 2px;
+    padding: 15px 42px 15px 42px;
+}
+.show-more{
+    font-size: 12px;
+    line-height: 14px;
+    text-decoration: none;
+    color: #939393 !important;
+}
+.activity h5 {
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 14px;
+    color: #000000;    
+}
+
+.activity p {
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 13px;
+    color: #B5B5B5;
+}
+.card-btn {
+    max-width: 87px;
+    max-height: 26px;
+    position: relative;
+    border: 1px solid #CCCCCC;
+    border-radius: 5px;
+}
+.card-btn::before {
+    position: absolute;
+    content: '';
+    top: 43%;
+    left: 76%;
+    width: 12px;
+    height: 6px;
+    background: url(../images/Polygon\ 15.png) no-repeat;
+}
+.card-btn button {
+    border: none;
+    border-right: 1px solid #CCCCCC;
+    color: #575757;
+    font-size: 13px;
+    background: transparent;
+   
+}
+.text-block {
+    background: #E5E5E5;
+}
+.text-block h4 {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+}
+.text-block p {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 16px;
+    color: #000000;
+}
+.text-block-text span{
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 15px;
+}
+.book {
+    max-width: 10px;
+    max-height: 10px;
+    color: red;
+}
+
